@@ -34,7 +34,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,cs,dotnet,blender,html,css,discord,github,gitlab,js,mysql,nginx,postgres,postman,react,sqlite,stackoverflow,tailwind,ts,visualstudio,vscode,vite" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,cs,dotnet,blender,html,css,discord,github,gitlab,js,mysql,nginx,postgres,postman,react,sqlite,python,stackoverflow,tailwind,ts,visualstudio,vscode,vite" />
   </a>
 </p>
 
